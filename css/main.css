@@ -1,0 +1,34 @@
+/*custom css */
+
+body {
+	font: Kalimati, Verdana, sans-serif;
+	color: #666;
+	line-height: 2.0;
+	font-size: 1.6em;
+	max-width: 1024px;
+}
+
+.list-box {
+	border: 1px solid #ccc;
+	padding: 10px 30px 30px;
+	margin-top: 30px;
+}
+
+.main-title {
+	margin-top: 42px;
+	font-size: 3.2em;
+	letter-spacing: -2.1px;
+}
+
+.subtitle {
+	color: #f07c17;
+	margin-bottom: 25px;
+	font-weight: bold;
+    font-size: 1.7em;
+	letter-spacing: -1.5px;
+}
+
+.sidebar-img {
+	margin-top: 20px;
+}
+
